@@ -117,3 +117,13 @@ valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas obser
 ![image](https://user-images.githubusercontent.com/117873786/217997486-947e8900-4ecc-4b2e-9273-ffe9bfc6e915.png)
 
 ![image](https://user-images.githubusercontent.com/117873786/217997563-594f3182-9ed9-4196-acbd-1020fd2fd8d7.png)
+
+b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores
+de 0, 10, 50, 100, 500, 1000 . Anote los resultados. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
+frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+![Documento sin título_page-0008](https://user-images.githubusercontent.com/116693260/217998137-9da3b9a3-1bbf-411a-a821-787e53822d84.jpg)
+
+![Documento sin título_page-0008-1](https://user-images.githubusercontent.com/116693260/217998144-9cf1cc00-10ef-4b0a-a913-30e5bf16e443.jpg)
+
+![Documento sin título_page-0009](https://user-images.githubusercontent.com/116693260/217998153-33828422-d81c-462a-b7fb-541eb9fa6e7d.jpg)
