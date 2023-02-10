@@ -48,6 +48,8 @@ Docente : Ing. Darwin Alulema
 
 1.- Construya en el protoboard el circuito mostrado en la Figura 1.
 
+![image](https://user-images.githubusercontent.com/116693260/217995753-0ac9b5b7-2b6a-4404-b31c-4a413360833a.png)
+
 a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los
 valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
 
