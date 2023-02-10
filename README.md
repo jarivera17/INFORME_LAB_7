@@ -130,3 +130,6 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 ![image](https://user-images.githubusercontent.com/116821649/217998241-7f08d830-8557-4c8b-8377-a2ea6980b94c.png)
 
+![image](https://user-images.githubusercontent.com/117873786/217998314-70d653ff-fbd4-4efa-b20a-63759100809a.png)
+
+
