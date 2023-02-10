@@ -150,6 +150,10 @@ Al colocar dos bobinas o dos capacitores de diferente denominación en el circui
 ### 4.- ¿Qué son los valores eficaces de voltaje y corriente?
 Se llama valor eficaz de una corriente alterna, al valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna, al aplicarla sobre una misma resistencia.
 
+## VIDEO
+
+https://uespe-my.sharepoint.com/:v:/g/personal/dxguallpa_espe_edu_ec/EU_lT-EqwDJGkMzbENqsZEABMefeY93uqkZPUlKUORxzPw?e=SE40Lm
+
 ## CONCLUSIONES
 
 1. En circuitos DC, la bobina actúa como un elemento inductivo, lo que significa que opone cambios bruscos en la corriente eléctrica que fluye a través de ella. Esto se debe a que los cambios en la corriente generan un campo magnético que, a su vez, induce una tensión en la bobina que intenta mantener la corriente constante.
