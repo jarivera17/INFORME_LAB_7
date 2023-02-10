@@ -76,7 +76,8 @@ valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas obser
 ![image](https://user-images.githubusercontent.com/117873786/217996217-3a707b18-ec48-408a-8827-e362ddd763a8.png)
 
 b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores
-de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+de 0, 10, 50, 100, 500, 1000 . Anote los resultados. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
+frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 ![B1](https://user-images.githubusercontent.com/116693260/217996591-1c88ab8f-37c6-4774-af3e-79c3fa175b96.jpg)
 
