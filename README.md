@@ -65,4 +65,9 @@ valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas obser
 
 ![6](https://user-images.githubusercontent.com/116693260/217995345-b110ace8-f539-4780-a87a-6efd3bc84d4b.jpg)
 
+![image](https://user-images.githubusercontent.com/116821649/217996016-7a09bbbc-b153-448e-9b21-37047db22c8f.png)
+
+![image](https://user-images.githubusercontent.com/116821649/217996059-695beddb-6ca6-4fc0-8470-c68a920e6221.png)
+
+![image](https://user-images.githubusercontent.com/116821649/217996095-7336274e-5190-47a5-9a26-d22fe0563cce.png)
 
