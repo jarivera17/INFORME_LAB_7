@@ -150,4 +150,20 @@ Al colocar dos bobinas o dos capacitores de diferente denominación en el circui
 ### 4.- ¿Qué son los valores eficaces de voltaje y corriente?
 Se llama valor eficaz de una corriente alterna, al valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna, al aplicarla sobre una misma resistencia.
 
+## CONCLUSIONES
 
+1. En circuitos DC, la bobina actúa como un elemento inductivo, lo que significa que opone cambios bruscos en la corriente eléctrica que fluye a través de ella. Esto se debe a que los cambios en la corriente generan un campo magnético que, a su vez, induce una tensión en la bobina que intenta mantener la corriente constante.
+
+2.  El capacitor en circuitos DC actúa como un elemento capacitivo, lo que significa que permite cambios lentos en la corriente eléctrica y opone cambios rápidos. Esto se debe a que los cambios rápidos en la corriente generan una diferencia de potencial en los terminales del capacitor, lo que a su vez impide que la corriente cambie rápidamente.
+
+3. En circuitos AC, la bobina y el capacitor tienen comportamientos diferentes a los circuitos DC. La bobina sigue actuando como un elemento inductivo, oponiéndose a los cambios bruscos en la corriente eléctrica, pero ahora la corriente cambia de dirección y magnitud periódicamente debido a la naturaleza alternante de la corriente.
+
+4. El capacitor en circuitos AC actúa como un elemento capacitivo, permitiendo cambios lentos en la corriente y oponiéndose a cambios rápidos como en los circuitos DC. Sin embargo, a diferencia de los circuitos DC, en los circuitos AC, la corriente a través del capacitor cambia de dirección y magnitud periódicamente. 
+
+5. En resumen, la bobina opone los cambios bruscos en la corriente y el capacitor permite cambios lentos en la corriente. Juntos, estos dos elementos pueden utilizarse en circuitos para controlar la forma en que la corriente eléctrica varía con el tiempo.
+
+6. Un osciloscopio permite analizar una amplia variedad de señales eléctricas y electrónicas, incluyendo: formas de onda de voltaje y corriente, en donde, se pueden visualizar y comparar diferentes formas de onda para determinar su frecuencia, amplitud, fase y forma.
+
+## BIBLIOGRAFÍA
+
+Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: Pearson Educacion.
