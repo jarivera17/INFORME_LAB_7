@@ -85,4 +85,5 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 ![B3](https://user-images.githubusercontent.com/116693260/217996595-a3c44bbc-a4d8-4edb-b707-cd3684865012.jpg)
 
+![image](https://user-images.githubusercontent.com/116821649/217997030-2e2f85c2-d7aa-4251-986a-9a5e5156c689.png)
 
